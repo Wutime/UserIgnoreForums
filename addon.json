@@ -1,0 +1,16 @@
+{
+    "legacy_addon_id": "",
+    "title": "[Wutime] User Ignore Forums",
+    "description": "",
+    "version_id": 1,
+    "version_string": "1.0.0",
+    "dev": "Wutime",
+    "dev_url": "",
+    "faq_url": "",
+    "support_url": "",
+    "extra_urls": {
+        "Wutime.com": "https://www.wutime.com"
+    },
+    "require": [],
+    "icon": "wu-logo-medium.png"
+}

@@ -1,0 +1,74 @@
+{
+    "option.wutime_uif_available_forums.txt": {
+        "global_cache": false,
+        "version_id": 1,
+        "version_string": "1.0.0",
+        "hash": "27e45adbc0c92507a6345d1f082abd8f"
+    },
+    "option.wutime_uif_available_usergroups.txt": {
+        "global_cache": false,
+        "version_id": 1,
+        "version_string": "1.0.0",
+        "hash": "2b2d6b05bbe29d9ff47251b5e03cda40"
+    },
+    "option.wutime_uif_disallow_usergroups.txt": {
+        "global_cache": false,
+        "version_id": 1,
+        "version_string": "1.0.0",
+        "hash": "7765c83655a0b14c87d0a76c261c40a4"
+    },
+    "option.wutime_uif_enable.txt": {
+        "global_cache": false,
+        "version_id": 1,
+        "version_string": "1.0.0",
+        "hash": "b3ca91e3042f60ab491ff7c084a2f1e3"
+    },
+    "option_explain.wutime_uif_available_forums.txt": {
+        "global_cache": false,
+        "version_id": 1,
+        "version_string": "1.0.0",
+        "hash": "e76ec90637bebc64a690b055dfb4839a"
+    },
+    "option_explain.wutime_uif_available_usergroups.txt": {
+        "global_cache": false,
+        "version_id": 1,
+        "version_string": "1.0.0",
+        "hash": "fd474d4964b762cddf335eac1b4671d8"
+    },
+    "option_explain.wutime_uif_disallow_usergroups.txt": {
+        "global_cache": false,
+        "version_id": 1,
+        "version_string": "1.0.0",
+        "hash": "fd474d4964b762cddf335eac1b4671d8"
+    },
+    "option_explain.wutime_uif_enable.txt": {
+        "global_cache": false,
+        "version_id": 1,
+        "version_string": "1.0.0",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "option_group.wutime_uif.txt": {
+        "global_cache": false,
+        "version_id": 1,
+        "version_string": "1.0.0",
+        "hash": "8447c99be2413a00bc2d34d74aa7d7cd"
+    },
+    "option_group.wutime_uif_options.txt": {
+        "global_cache": false,
+        "version_id": 1,
+        "version_string": "1.0.0",
+        "hash": "8447c99be2413a00bc2d34d74aa7d7cd"
+    },
+    "option_group_description.wutime_uif.txt": {
+        "global_cache": false,
+        "version_id": 1,
+        "version_string": "1.0.0",
+        "hash": "88c02e0ab155642e2d5aadb365582f2d"
+    },
+    "option_group_description.wutime_uif_options.txt": {
+        "global_cache": false,
+        "version_id": 1,
+        "version_string": "1.0.0",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    }
+}

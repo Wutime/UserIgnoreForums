@@ -1,0 +1,14 @@
+{
+    "wutime_uif_available_forums.json": {
+        "hash": "e419b595a078db97cfc39d4a3cbb16e4"
+    },
+    "wutime_uif_available_usergroups.json": {
+        "hash": "41cc2f7c1d79390bb4e4859a01c60714"
+    },
+    "wutime_uif_disallow_usergroups.json": {
+        "hash": "33f8d1e5c9c82217feaa8bb3d5fbf455"
+    },
+    "wutime_uif_enable.json": {
+        "hash": "423c27b7db580ce331767cc9561e22e1"
+    }
+}

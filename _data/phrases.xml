@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phrases>
+  <phrase title="option.wutime_uif_available_forums" version_id="1" version_string="1.0.0"><![CDATA[What forums can be ignored by members?]]></phrase>
+  <phrase title="option.wutime_uif_disallow_usergroups" version_id="1" version_string="1.0.0"><![CDATA[Which usergroups can ignore forums?]]></phrase>
+  <phrase title="option.wutime_uif_enable" version_id="1" version_string="1.0.0"><![CDATA[Enable addon]]></phrase>
+  <phrase title="option_explain.wutime_uif_available_forums" version_id="1" version_string="1.0.0"><![CDATA[You must select at least one forum that users can ignore.]]></phrase>
+  <phrase title="option_explain.wutime_uif_disallow_usergroups" version_id="1" version_string="1.0.0"><![CDATA[You must select at least one usergroup that can ignore forums.]]></phrase>
+  <phrase title="option_explain.wutime_uif_enable" version_id="1" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="option_group.wutime_uif_options" version_id="1" version_string="1.0.0"><![CDATA[[Wutime] User Ignore Forums]]></phrase>
+  <phrase title="option_group_description.wutime_uif_options" version_id="1" version_string="1.0.0"><![CDATA[]]></phrase>
+</phrases>
